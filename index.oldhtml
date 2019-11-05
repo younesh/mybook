@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+
+    <style>
+        h1 {
+            color: red;
+        }
+    </style>
+</head>
+
+<body>
+    <h1> test my first published site ... </h1>
+    <p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Natus a necessitatibus dolores nostrum consequuntur deserunt libero assumenda nam porro vel, voluptatum sint distinctio? Aspernatur provident tempore nulla nemo assumenda enim. </p>
+
+    <script>
+        alert("why peopole expect heih level from thme self widout hardworking ")
+    </script>
+</body>
+
+</html>
